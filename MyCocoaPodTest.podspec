@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyCocoaPodTest'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Pod for testing dependency checker'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'MyCocoaPodTest/Classes/**/*'
   s.swift_version = '5.0'
-  
+
   # s.resource_bundles = {
   #   'MyCocoaPodTest' => ['MyCocoaPodTest/Assets/*.png']
   # }
